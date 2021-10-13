@@ -3,7 +3,7 @@ Ce projet fournit une application « examen » qui permet aux utilisateurs de r�
 
 Pour obtenir un aperçu de l'interface Yaksh, veuillez vous référer à la documentation utilisateur sur [Yaksh Docs](http://yaksh.readthedocs.io/)
 
-Ceci est un guide de démarrage rapide pour aider les utilisateurs à configurer une instance d'essai. Si vous souhaitez déployer Yaksh dans un environnement de production voici un [Guide de déploiement en production](https://github.com/FOSSEE/online_test/blob/master/README_production.rst)
+Ceci est un guide de démarrage rapide pour aider les utilisateurs à configurer une instance d'essai. Si vous souhaitez déployer Yaksh dans un environnement de production voici un [Guide de déploiement en production](https://github.com/chaieb-adel/iziKlasse/blob/main/README_production.rst)
 
 [](https://github.com/FOSSEE/online_test#introduction)introduction
 ------------------------------------------------------------------
