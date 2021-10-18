@@ -6,7 +6,7 @@ Yaksh
 Pour obtenir un aperçu de l'interface Yaksh, veuillez vous référer à la documentation utilisateur sur `Yaksh Docs <http://yaksh.readthedocs.io>`_
 
 
-Ceci est un guide de démarrage rapide pour aider les utilisateurs à configurer une instance d'essai. Si vous souhaitez déployer Yaksh dans un environnement de production, voici un `Guide de déploiement de production <https://github.com/FOSSEE/online\_test/blob/master/README\_production.rst>`_
+Ceci est un guide de démarrage rapide pour aider les utilisateurs à configurer une instance d'essai. Si vous souhaitez déployer Yaksh dans un environnement de production, voici un `Guide de déploiement de production <https://github.com/chaieb-adel/iziKlasse/blob/master/README_production-fr.rst>`_
 
 introduction
 =============
@@ -32,14 +32,14 @@ Caractéristiques
 - S'adapte à plus de 500+ utilisateurs simultanés.
 - Distribué sous licence BSD.
 
-Pour avoir un aperçu de toutes les fonctionnalités disponibles, consultez notre site Web de démonstration https://yaksh-demo.fossee.in. Il dispose de 50 connexions d'enseignants et d'étudiants.
+Pour avoir un aperçu de toutes les fonctionnalités disponibles, consultez notre site Web de démonstration http://iziklasse.net . Il dispose de 50 connexions d'enseignants et d'étudiants.
 
-**Sample teacher login**
+**Example de login comme enseignant**
 
 Username: teacher
 Password: teacher
 
-**Sample student login**
+**Example de login comme apprenant**
 
 Username: student
 Password: student
@@ -106,7 +106,7 @@ miniconda. Téléchargez miniconda avec Python 3.6 et supérieur.
 
   ::
 
-      git clone https://github.com/FOSSEE/online_test.git
+      git clone https://github.com/chaieb-adel/iziKlasse.git
 
 * **Allez dans le répertoire online_test**
 
@@ -190,7 +190,7 @@ intéressant.
 
 Prabhu voulait une implémentation qui n'était pas liée à GAE et a donc écrit
 la coupe initiale de ce qui est maintenant 'Yaksh'. L'idée étant que n'importe qui peut
-utilisez-le pour tester les compétences de programmation des étudiants et ne pas avoir à vous soucier de
+l'utiliser pour tester les compétences de programmation des étudiants et ne pas avoir à vous soucier de
 notant leurs réponses manuellement et le font à la place sur leurs machines.
 
 L'application a depuis été refactorisée et maintenue par FOSSEE
