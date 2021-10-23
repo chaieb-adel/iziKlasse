@@ -1,5 +1,5 @@
 
-*Nouveaute : La version 1 released
+*Nouveauté : La version 1 released
 =================================
 Sorti de la version 1 sur https://iziklasse.net sous le nom **iziklasse 1.0** 23 Octobre 2021 11:26
 
