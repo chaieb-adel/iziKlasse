@@ -7,7 +7,7 @@ Modification apporté & ajouts effectué
 =======================================
 
 - Corréctions des bugs dans le module d'ajout quizz.
-- Ajout d'un nouveau système de quizz complementaire et plus facile a utiliser. documentation <https://docs.github.com>
+- Ajout d'un nouveau système de quizz complementaire et plus facile a utiliser.
 - Ajout du certificat SSL pour utilisez le protocole https, pour une navigation sur le site plus sécuriser et certifié
 - Ajouts d'un support multilangue, dont le hindi, le portugais, l'allemend , le francais, l'anglais et plein d'autres.
 - Ajout de la coloriation syntaxique du code source pour facilité la lecture des cours
