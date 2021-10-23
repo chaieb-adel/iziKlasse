@@ -3,7 +3,7 @@
 =================================
 Sorti de la version 1 sur https://iziklasse.net sous le nom **iziklasse 1.0** 23 Octobre 2021 11:26
 
-**Modification apporté & ajouts effectué
+Modification apporté & ajouts effectué
 =======================================
 
 -Corréctions des bugs dans le module d'ajout quizz.
