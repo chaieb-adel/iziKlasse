@@ -13,6 +13,7 @@ Modification apporté & ajouts effectué
 - Ajout de la coloriation syntaxique du code source pour facilité la lecture des cours
 - Corréctions des bugs dans le module de cours
 - Et plein d'autres améliorations à rétrouver sur http://iziklasse.net
+Plus d'info sur cette version https://github.com/chaieb-adel/iziKlasse/releases/tag/v1.0
 
 
 Yaksh
