@@ -12,7 +12,7 @@ Modification apporté & ajouts effectué
 -Ajouts d'un support multilangue, dont le hindi, le portugais, l'allemend , le francais, l'anglais et plein d'autres.
 -Ajout de la coloriation syntaxique du code source pour facilité la lecture des cours
 -Corréctions des bugs dans le module de cours
--Et plein d'autres améliorations rétrouver sur http://iziklasse.net
+-Et plein d'autres améliorations à rétrouver sur http://iziklasse.net
 
 
 Yaksh
