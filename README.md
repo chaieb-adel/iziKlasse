@@ -231,16 +231,9 @@ l'information est au bas de ce fichier.
 Auteurs
 =======
 
-`Développeurs FOSSEE <https://github.com/FOSSEE/online_test/graphs/contributors>`_
+`Développeurs FOSSEE <https://github.com/FOSSEE/online_test/graphs/contributors>`
 
-Copyright (c) 2011-2017 `FOSSEE <https://fossee.in>`_
+Copyright (c) 2011-2017 `FOSSEE <https://fossee.in>`
 
 
-.. |État de la construction| image :: https://travis-ci.org/FOSSEE/online_test.svg?branch=master
-   :cible: https://travis-ci.org/FOSSEE/online_test
-.. |État de la documentation| image :: https://readthedocs.org/projects/yaksh/badge/?version=latest
-   :cible: http://yaksh.readthedocs.io/en/latest/?badge=latest
-.. |État de la version| image :: https://badge.fury.io/gh/fossee%2Fonline_test.svg
-    :cible: https://badge.fury.io/gh/fossee%2Fonline_test
-.. |État de la couverture| image :: https://codecov.io/gh/fossee/online_test/branch/master/graph/badge.svg
-    :cible: https://codecov.io/gh/fossee/online_test
+
